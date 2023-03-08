@@ -10,7 +10,7 @@ const Header = (title, date, temp) => {
   //    <h1>{ title }</h1>
   //    <span class="temp">{ temp }</span>
   //  </div>
-  //
+  // jajajaj
   
     const headerDiv = document.createElement('div');
     headerDiv.classList.add('header');
