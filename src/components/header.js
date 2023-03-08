@@ -11,6 +11,7 @@ const Header = (title, date, temp) => {
   //    <span class="temp">{ temp }</span>
   //  </div>
   // jajajaj
+  // hahahhhaha
   
     const headerDiv = document.createElement('div');
     headerDiv.classList.add('header');
